@@ -8,7 +8,7 @@ Built using **Python, Scikit-Learn and Streamlit**, this system simulates a real
 
 ## 🌐 Live Application
 
-> *(Add your Streamlit deployment link here after hosting)*
+> https://heart-disease-prediction-eq6humvrr2hvs9ekeesjxj.streamlit.app/
 
 ---
 
